@@ -1,0 +1,1 @@
+# [docs](https://docs.galacticraft.dev)
